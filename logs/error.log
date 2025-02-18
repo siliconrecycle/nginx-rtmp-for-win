@@ -1,0 +1,13 @@
+2025/02/17 15:18:47 [notice] 15676#13712: Fatal: wait for sockapi failed
+2025/02/17 15:22:27 [notice] 8104#1884: Fatal: wait for sockapi failed
+2025/02/17 15:24:09 [emerg] 3620#6984: unknown directive "rtmp" in C:\Users\22522\Downloads\Compressed\nginx 1.27.1.1 SnowDrop/conf/nginx.conf:8
+2025/02/17 15:24:44 [emerg] 17396#496: unknown directive "rtmp" in C:\Users\22522\Downloads\Compressed\nginx 1.27.1.1 SnowDrop/conf/nginx.conf:8
+2025/02/17 15:25:10 [emerg] 1960#9036: unknown directive "rtmp" in C:\Users\22522\Downloads\Compressed\nginx 1.27.1.1 SnowDrop/conf/nginx.conf:8
+2025/02/17 15:25:34 [notice] 14584#13888: Fatal: wait for sockapi failed
+2025/02/17 15:49:11 [emerg] 9780#5652: unknown directive "rtmp" in C:\Users\22522\Downloads\Compressed\nginx 1.27.1.1 SnowDrop/conf/nginx.conf:8
+2025/02/17 22:05:09 [emerg] 4532#15224: CreateFile() "D:\11.250202-直播\nginx 1.27.1.1 SnowDrop/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2025/02/17 22:08:54 [emerg] 15240#15244: CreateFile() "D:\11.250202-boardcasting\nginx 1.27.1.1 SnowDrop/.\conf\nginx.conf" failed (2: The system cannot find the file specified)
+2025/02/17 22:09:29 [emerg] 6304#8364: CreateFile() "D:/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2025/02/17 22:09:37 [emerg] 8280#520: CreateFile() "D:\11.250202-boardcasting\nginx 1.27.1.1 SnowDrop/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2025/02/17 22:09:59 [emerg] 1532#1516: CreateFile() "D:\11.250202-boardcasting\nginx 1.27.1.1 SnowDrop/\conf\nginx.conf" failed (2: The system cannot find the file specified)
+2025/02/17 22:11:05 [emerg] 10248#9696: CreateFile() "D:\11.250202-boardcasting\nginx 1.27.1.1 SnowDrop\conf\nginx.conf" failed (2: The system cannot find the file specified)

@@ -1,0 +1,18 @@
+127.0.0.1 - - [17/Feb/2025:22:00:46 +0800] "GET /stat HTTP/1.1" 200 526 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:04:30 +0800] "GET / HTTP/1.1" 200 873 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:04:38 +0800] "GET /stat HTTP/1.1" 200 527 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:13:09 +0800] "GET /stat HTTP/1.1" 200 526 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:13:16 +0800] "GET /stat HTTP/1.1" 200 526 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:16:15 +0800] "GET /stat HTTP/1.1" 200 527 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:22:18 +0800] "GET /stat HTTP/1.1" 200 1335 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+192.168.50.251 [17/Feb/2025:22:22:27 +0800] PUBLISH "live" "stream" "" - 17589803 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (14s)
+127.0.0.1 - - [17/Feb/2025:22:24:19 +0800] "GET /stat HTTP/1.1" 200 536 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:24:25 +0800] "GET /stat HTTP/1.1" 200 536 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:24:34 +0800] "GET /stat HTTP/1.1" 200 536 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:25:15 +0800] "GET /stat HTTP/1.1" 200 536 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:26:04 +0800] "GET /stat HTTP/1.1" 200 931 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:26:25 +0800] "GET /stat HTTP/1.1" 200 933 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:26:26 +0800] "GET /stat HTTP/1.1" 200 933 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [17/Feb/2025:22:28:22 +0800] "GET /stat HTTP/1.1" 200 1585 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+192.168.50.251 [18/Feb/2025:00:11:24 +0800] PLAY "live" "stream" "" - 24722 3579818547 "" "LNX 9,0,124,2" (1h 45m 29s)
+127.0.0.1 - - [18/Feb/2025:00:11:48 +0800] "GET /stat HTTP/1.1" 200 1395 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"

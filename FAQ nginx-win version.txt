@@ -1,0 +1,11 @@
+
+=== NGINX for Windows ===
+
+Builds can be found here:
+  http://nginx-win.ecsds.eu/
+  Follow releases via RSS http://nginx-win.ecsds.eu/nginx-win-rss.xml.rss
+
+FAQ, 2015
+
+The FAQ is now part of our manual which you can find on our website.
+Near the bottom "NGINX for Windows - The Latest Documentation"
